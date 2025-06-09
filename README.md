@@ -1,5 +1,4 @@
 
-You can follow the full tutorial here : https://romain-billon.medium.com/ultimate-jmeter-kubernetes-starter-kit-7eb1a823649b
 
 If you enjoy and want to support my work :
 
